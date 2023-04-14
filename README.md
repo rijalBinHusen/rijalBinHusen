@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ibin husen</h1>
 <h3 align="center">A passionate frontend developer from Indonesia 🇮🇩</h3>
 
-- 👨‍💻 All of my projects are available at [https://rijalbinhusen.netlify.app/](https://rijalbinhusen.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://rijalbinhusen.netlify.app/](https://ibinhusen.my.id/)
 
 - 💬 Ask me about **Vuejs**
 
-- 📫 How to reach me **jeryzal333@gmail.com**
+- 📫 How to reach me **rijalbinhuse@gmail.com**
 
 <h3 align="left">Summary:</h3>
 
