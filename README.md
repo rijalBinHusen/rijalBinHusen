@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Vuejs**
 
-- 📫 How to reach me **rijalbinhuse@gmail.com**
+- 📫 How to reach me **rijalbinhusen@rijalbinhusen.cloud**
 
 <h3 align="left">Summary:</h3>
 
